@@ -1,0 +1,14 @@
+/Users/gucciwest/Desktop/Todo-List/Todo-List/bin/Debug/net8.0/Todo-List
+/Users/gucciwest/Desktop/Todo-List/Todo-List/bin/Debug/net8.0/Todo-List.deps.json
+/Users/gucciwest/Desktop/Todo-List/Todo-List/bin/Debug/net8.0/Todo-List.runtimeconfig.json
+/Users/gucciwest/Desktop/Todo-List/Todo-List/bin/Debug/net8.0/Todo-List.dll
+/Users/gucciwest/Desktop/Todo-List/Todo-List/bin/Debug/net8.0/Todo-List.pdb
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/Todo-List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/Todo-List.AssemblyInfoInputs.cache
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/Todo-List.AssemblyInfo.cs
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/Todo-List.csproj.CoreCompileInputs.cache
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/Todo-List.dll
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/refint/Todo-List.dll
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/Todo-List.pdb
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/Todo-List.genruntimeconfig.cache
+/Users/gucciwest/Desktop/Todo-List/Todo-List/obj/Debug/net8.0/ref/Todo-List.dll
