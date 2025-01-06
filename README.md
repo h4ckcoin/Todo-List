@@ -1,4 +1,4 @@
-Todo List (C#) Başlangıç Kısmı :
+Todo List 
 - Bu proje, C# ile geliştirilmiş basit bir “yapılacaklar listesi” (to-do list) uygulamasıdır.
 - Kullanıcıların görev eklemesine, bu görevleri listelemesine, tamamlamasına ve silmesine olanak tanır.
 - Konsol tabanlı olduğu için hızlıca deneyimleyebilir ve iş mantığını basitçe görebilirsiniz.
